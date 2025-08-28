@@ -104,7 +104,3 @@ MedTourX/
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
